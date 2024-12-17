@@ -23,7 +23,7 @@ import java.util.Locale;
  */
 public final class SignTool {
 
-    private static final String ZIPALIGN_ALIGNMENT = "4";
+    private static final String ZIPALIGN_ALIGNMENT = "16";
     private static final String APK_FILE_EXTENSION = "apk";
 
     private SignTool() {
